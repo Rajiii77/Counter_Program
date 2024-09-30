@@ -1,0 +1,25 @@
+.counterValue{
+    display: block;
+    font-size: 4rem;
+   
+    text-align: center;
+}
+.btn_container{
+    display: flex;
+   
+    justify-content: center;
+}
+.actbtn{
+    margin: 10px 9px;
+    background-color: rgb(133, 186, 221);
+    border: 1px solid;
+    font-size: 1.2em;
+    color: aliceblue;
+    padding:10px 20px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+
+}
+.actbtn:hover{
+    background-color:rgb(51, 111, 190) ;
+}
